@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataStore } from '@aws-amplify/datastore';
-import { User } from './models';
+import { User } from 'src/models';
 
 @Component({
   selector: 'app-root',
